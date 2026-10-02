@@ -278,3 +278,20 @@ Generated outputs:
 
 ## 🛡️ License & Standards
 Developed under academic research standards for emergency management AI. Compliant with **FEMA NIMS ICS-200/300**, **IEEE Std 830-1998**, **IEEE Std 1016-2009**, and the **Jeanne Clery Disclosure Act**.
+---
+
+## Project Screenshots
+
+### 1. Active Incident Dashboard
+
+![Active Incident Dashboard](screenshots/Screenshot_1_Active_Incident.png)
+
+### 2. API Documentation
+
+![API Documentation](screenshots/Screenshot_2_API_Documentation.png)
+
+### 3. Automated Test Results
+
+![Automated Test Results](screenshots/Screenshot_3_Test_Results.png)
+
+---
